@@ -11,8 +11,10 @@
 
 - Install express with the following command:
   - ```javascript
-    
+  
+    npm install nodemon
     npm install express dotenv
+    npm install mongoose
 
     ```
 
