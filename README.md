@@ -7,7 +7,7 @@
   <img alt="Made by Elias Fernandes" src="https://img.shields.io/badge/-Linkedin-blue?logo=LinkedIn&logoColor=white" />
   </a>
   
- ### Setup
+ #### 🔧 Setup
 
 - Install express with the following command:
   - ```javascript
@@ -18,7 +18,7 @@
     
  
 
-### 📌 Support
+#### 📌 Support
 
 Reach out to me at one of the following places!
 
@@ -26,7 +26,7 @@ Reach out to me at one of the following places!
 - Email [eliasfernandescoutinho@gmail.com]
 
 ---
-### 📝 License
+#### 📝 License
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
 
