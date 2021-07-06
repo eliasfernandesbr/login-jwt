@@ -11,13 +11,14 @@
 
 - Install express with the following command:
   - ```javascript
-  
+
     npm install nodemon
     npm install express dotenv
     npm install mongoose
 
     ```
-
+START MONGODB - "C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe"
+CONNECT MONGODB - "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
 #### 📌 Support
 
 Reach out to me at one of the following places!
