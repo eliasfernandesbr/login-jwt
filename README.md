@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+![GitHub repo size](https://img.shields.io/github/repo-size/eliasfernandesbr/desafio-boxgroup?color=orange&logo=GitHub)
+![GitHub last commit](https://img.shields.io/github/last-commit/eliasfernandesbr/desafio-boxgroup)
+<a href="https://desafio-groupbox.herokuapp.com/" target="_blank">
+  <img alt="Made by Elias Fernandes" src="https://img.shields.io/badge/-Deploy Link-blueviolet?logo=Heroku&logoColor=white" />
+  </a>
+ <a href="https://www.linkedin.com/in/fernandesnetobr/" target="_blank">
+  <img alt="Made by Elias Fernandes" src="https://img.shields.io/badge/-Linkedin-blue?logo=LinkedIn&logoColor=white" />
+  </a>
+  
+  
+  ## 🚀 Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Prerequisites
 
-## Available Scripts
+- To run any NodeJS application you need to install a [Node](https://nodejs.org/en/) 
 
-In the project directory, you can run:
 
-### `yarn start`
+### Clone
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Clone this repo to your local machine using:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+https://github.com/eliasfernandesbr/login-jwt.git
+```
 
-### `yarn test`
+### Setup
 
-Launchasaes the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Install project dependencies in {root} folder and {client} folder;
+  - ```javascript
+    yarn install
+    // or
+    npm install
+    ```
+- Run in the client folder;
 
-### `yarn build`
+  - ```javascript
+       npm run build
+    ```
+- Run project; 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  - ```javascript
+       npm start
+       //or
+       yarn start
+    ```    
+ <img src= https://img.shields.io/badge/PROJECT-RUN-green/> 
+ The project will run on localhost:5000
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📋 Features
 
-### `yarn eject`
+### Build with
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [NodeJS](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
+- [Heroku](https://heroku.com/) - is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📌 Support
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Reach out to me at one of the following places!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Linkedin at [Elias Fernandes](https://www.linkedin.com/in/fernandesnetobr/)
+- Email [eliasfernandescoutinho@gmail.com]
 
-## Learn More
+---
+## 📝 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made by Elias Fernandes. 🚀Enjoy it!
