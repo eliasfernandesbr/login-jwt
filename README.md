@@ -9,7 +9,7 @@
   
  #### 🛠️ Setup
 
-- Install express with the following command:
+- Install the following packages and dependencies:
   - ```javascript
 
     npm install nodemon
