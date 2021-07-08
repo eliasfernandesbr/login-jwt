@@ -16,6 +16,7 @@
     npm install express dotenv
     npm install mongoose
     npm install bcryptjs
+    npm install jsonwebtoken
 
     ```
 START MONGODB - "C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe"
